@@ -2,7 +2,7 @@
 
 My mission is to complete all 144 Exercism challenges by the end of 2026.
 
-## 🛠 TEST & SEND IT:
+## 🛠 TEST & SEND:
 
 1. **Navigate**: `cd ~/Exercism/python/[folder-name]`
 2. **Test**: `python3 -m pytest`
