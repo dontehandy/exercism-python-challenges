@@ -1,10 +1,17 @@
 # 🐍 My Python Journey: The Road to 144 (2026)
 
-My mission is to complete the entire Exercism Python track by the end of 2026.
+My mission is to complete all 144 Exercism challenges by the end of 2026.
 
-## 📋 The Sequence
+## 🛠 THE REPEATABLE WORKFLOW
+1. **Navigate**: `cd ~/Exercism/python/[folder-name]`
+2. **Test**: `python3 -m pytest`
+3. **Checkoff**: Mark `[x]` in this README.
+4. **Push**: Copy/Paste this exact line:
+   `MISSION=$(basename $PWD); cd ~/Exercism && git add . && git commit -m "Mission: {$MISSION} Complete" && git push origin main`
 
-- [ ] 000: hello-world
+## 📋 MISSION CHECKLIST
+
+- [x] 000: hello-world
 - [ ] 001: guidos-gorgeous-lasagna
 - [ ] 002: ghost-gobble-arcade-escape
 - [ ] 003: currency-exchange
