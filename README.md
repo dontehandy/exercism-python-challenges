@@ -2,12 +2,13 @@
 
 My mission is to complete all 144 Exercism challenges by the end of 2026.
 
-## 🛠 THE REPEATABLE WORKFLOW
+## 🛠 TEST & SEND IT:
+
 1. **Navigate**: `cd ~/Exercism/python/[folder-name]`
 2. **Test**: `python3 -m pytest`
 3. **Checkoff**: Mark `[x]` in this README.
 4. **Push**: Copy/Paste this exact line:
-   `MISSION=$(basename $PWD); cd ~/Exercism && git add . && git commit -m "Mission: {$MISSION} Complete" && git push origin main`
+   `MISSION=$(basename $PWD); cd ~/Exercism && git add . && git commit -m "Mission: $MISSION Complete" && git push origin main`
 
 ## 📋 MISSION CHECKLIST
 
